@@ -13,15 +13,15 @@ Les challenges de Frontend Mentor m’aident à améliorer mes compétences en H
 L’objectif était de :
 
 - Reproduire une carte de blog fidèle à la maquette (mobile et desktop)
-- Rendre la carte responsive sur tous les écrans inférieur à 576px
+- Rendre la carte responsive sur tous les écrans inférieurs à 576px
 - Ajouter un effet au survol du titre ("hover")
 - Respecter le style-guide
 
 
 ### 🔗 Liens
 
-- Solution sur Frontend Mentor : [Lien ici](https://www.frontendmentor.io/solutions/...)
-- Site en ligne : [Lien ici](https://ton-site.netlify.app)
+- code source : [Lien ici](https://github.com/oxford777/tp-blog-preview-card)
+- Site en ligne : [Lien ici](https://oxford777.github.io/tp-blog-preview-card/)
 
 ### 🔧 Technologies utilisées
 
