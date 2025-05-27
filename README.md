@@ -36,6 +36,7 @@ L’objectif était de :
 - Pourquoi il est important d’utiliser box-sizing: border-box pour éviter les surprises avec la taille des éléments quand on ajoute des paddings ou des bordures.
 - Adapter la taille du texte pour les petits écrans grâce aux media queries, afin d’améliorer la lisibilité sur mobile.
 - Rendre la carte flexible en largeur avec width: 100% tout en limitant sa taille maximale avec max-width, pour qu’elle reste lisible et équilibrée sur tous les écrans.
+- Utiliser des unités relatives comme rem m’a permis de rendre mon design plus flexible : si un utilisateur a une taille de texte plus grande dans son navigateur, tout s’adapte automatiquement (espacements, tailles, marges…). C’est plus accessible et ça évite les surprises visuelles.
 
 ### 🧭 Pistes d’amélioration
 
