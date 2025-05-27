@@ -51,7 +51,7 @@ L’objectif était de :
 ## 👤 Auteur
 
 - Prénom : Frédérique
-- GitHub : [@tonpseudo](https://twitter.com/tonpseudo)
+- GitHub : [@oxford777](https://github.com/oxford777)
 
 
 ## 🙏 Remerciements
