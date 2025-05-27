@@ -16,59 +16,59 @@ body{
 }
 
 body p{
-    font-size: 16px;
+    font-size: 1rem; /* 16px */
 }
 
 .carte{
     background-color: hsl(0, 0%, 100%);
-    border: 1px solid hsl(0, 0%, 7%);
+    border: 1px solid hsl(0, 0%, 7%); 
     border-radius: 20px;
     margin: auto;
-    max-width: 380px;
-    padding: 20px;
-    box-shadow: 9px 9px 0 hsl(0, 0%, 7%);
+    max-width: 22.5rem; /* 360px */
+    padding: 1.25rem; /* 20px */
+    box-shadow: 9px 9px 0 hsl(0, 0%, 7%); 
 }
 
 .illustration{
-    border-radius: 15px;
+    border-radius: 15px; 
     width: 100%;
     display: block;
-    margin-bottom: 30px;
+    margin-bottom: 1.875rem; /* 30px */
 }
 
 .date{
-    padding: 20px 0;
+    padding: 1.25rem 0; /* 20px */
 }
 
 .description{
     color:hsl(0, 0%, 42%);
     line-height: 1.5;
-    padding-bottom: 20px;
+    padding-bottom: 1.25rem; /* 20px */
 }
 
 .avatar{
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 0.625rem; /* 10px */
 }
 
 .attribution { 
-    font-size: 15px; 
+    font-size: 0.75rem; /* 12px */
     text-align: center;  
-    padding-top: 40px;
-    padding-bottom: 20px;
+    padding-top: 1.25rem;
+    padding-bottom: 0.625rem;
     color: hsl(228, 45%, 44%); 
 }
 
 .carte-body span{
     font-weight: bold;
     background-color: hsl(47, 88%, 63%);
-    padding: 5px 10px;
+    padding: 0.3125rem 0.625rem; /* 5px 10px */
     border-radius: 3px;
 }
 
 .carte-body h1{
-    padding-bottom: 15px;
+    padding-bottom: 0.9375rem; /* 15px */
 }
 
 .carte-body h1:hover{
@@ -77,7 +77,7 @@ body p{
 }
 
 .avatar img{
-   width: 30px;
+   width: 1.875rem; /* 30px */
 }
 
 .avatar span{
@@ -88,14 +88,14 @@ body p{
     .carte {
         height: auto;
         width: 90vw;
-        padding: 20px;
+        padding: 1.25rem;
     }
 
     .carte-body h1{
-        font-size: 18px;
+        font-size: 1.125rem; /* 18px */
     }
 
     .description{
-        font-size: 14px;
+        font-size: 0.875rem; /* 14px */
     }
 }
